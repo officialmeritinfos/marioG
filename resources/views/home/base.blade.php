@@ -92,7 +92,7 @@
                         </ul>
                     </div>
                     <div class="top-right">
-                        <div class="login"><a href="{{ route('register') }}">Login</a></div>
+                        <div class="login"><a href="{{ route('login') }}">Login</a></div>
                     </div>
                 </div>
             </div>
